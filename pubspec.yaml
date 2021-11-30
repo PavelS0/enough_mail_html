@@ -11,7 +11,7 @@ dependencies:
   enough_mail: #^1.3.3
     git: 
       url: https://github.com/PavelS0/enough_mail.git
-      ref: a607122
+      ref: cd71fdc
     # path: ../enough_mail/
   image: ^3.0.2
 
